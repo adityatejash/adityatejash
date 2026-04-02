@@ -33,7 +33,9 @@ My work involves analyzing data, designing efficient systems, and solving real-w
 
 * Developed a program to analyze text and count word frequency efficiently
 * Tech: C++ / HTML / CSS / Javascript
+  
   👉 Live: https://wordcount-trel.onrender.com/
+
   👉 GitHub: https://github.com/adityatejash
 
 ---
@@ -48,7 +50,7 @@ My work involves analyzing data, designing efficient systems, and solving real-w
 
 ## 🎯 Goal
 
-To become a skilled **Data Analyst / Software Developer / Database Administrator (DBA)** and build impactful real-world solutions.
+To become a skilled **Data Analyst / Software Developer / Database Administrator** and build impactful real-world solutions.
 
 ---
 
